@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica 1</string>
+    <string name="texto_textview">Mi primer app</string>
+    <string name="bt1">Login</string>
+    <string name="bt2">Guardar</string>
+    <string name="bt3">Buscar</string>
+    <string name="txt1">Ingrese numero de cedula:</string>
+    <string name="txt2">Nombres:</string>
+    <string name="txt3">Apellidos:</string>
+    <string name="txt4">Usuario:</string>
+    <string name="txt5">Clave:</string>
+    <string name="bt4">Autenticar</string>
+    <string name="bt5">Enviar</string>
+    <string name="bt6">Buscar</string>
+</resources>
