@@ -9,7 +9,10 @@
     <string name="txt3">Apellidos:</string>
     <string name="txt4">Usuario:</string>
     <string name="txt5">Clave:</string>
+    <string name="txt6">Respuesta</string>
     <string name="bt4">Autenticar</string>
     <string name="bt5">Enviar</string>
     <string name="bt6">Buscar</string>
+    <string name="bt7">Pasar Parametro</string>
+    <string name="bt8">Pasar Parametro</string>
 </resources>

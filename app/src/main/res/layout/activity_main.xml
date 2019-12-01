@@ -30,4 +30,11 @@
         android:text="@string/bt3"
         android:id="@+id/buttonBuscar"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt7"
+        android:id="@+id/buttonPasarParametro"/>
+
+
 </LinearLayout>
